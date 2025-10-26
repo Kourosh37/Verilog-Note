@@ -283,12 +283,6 @@ gtkwave counter_wave.vcd
 
 ---
 
-## ❓ 8. Conceptual Questions with Full Answers
-
-(Contains all 10 detailed Q&A from the previous message, explaining non-blocking vs blocking, flip-flop differences, reset logic, FSMs, mod counters, and best practices.)
-
----
-
 ## 🧰 Tools
 
 | Tool | Purpose | Link |
